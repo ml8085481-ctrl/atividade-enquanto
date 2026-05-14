@@ -1,1 +1,4 @@
-
+inteiro contador = 0
+    enquanto(contador<10){
+      contador = contador +1
+      escreva("\n", contador)
